@@ -1,0 +1,23 @@
+# Ignore compiled Java class files
+*.class
+
+# Ignore compiled binary directories
+bin/
+out/
+
+# Ignore logs
+*.log
+logs/
+
+# Ignore IDE and editor folders
+.idea/
+.vscode/
+*.iml
+
+# Ignore build system folders (for Maven/Gradle, если будешь использовать позже)
+target/
+build/
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
